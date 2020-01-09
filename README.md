@@ -5,7 +5,5 @@ Requisitos
 
 Passos:
 1. Baixar o proejto e rodar o bundle install na pasta
-2. Para testar, executar o comando 'cucumber -f html --out resulpesquisaCEP.html'
-3. Gera arquivo resulpesquisaCEP.html. neste esta o resultado dos testes
-# consutlaCEP
-# Elisiel
+2. Para testar, executar o comando 'cucumber -f html --out resultpesquisaCEP.html'
+3. Gera arquivo resulpesquisaCEP.html na pasta do proejto, neste esta o resultado dos testes
